@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Ingresar</string>
+    <string name="imageViewItes" translatable="false">TODO</string>
+    <string name="textViewBienvenido">Bienvenido de Nuevo</string>
+    <string name="editTextNombre">INGRESE SU NOMBRE</string>
+    <string name="editTextPassword">INGRESE SU CONTRASEÑA</string>
+    <string name="switchRecordar" translatable="false">Switch</string>
+    <string name="textViewRecordar">Recordar Usuario</string>
+    <string name="buttonIngresar">Ingresar</string>
+    <string name="textViewSinRegistrar">Sin Registrar? Crear Usuario</string>
+    <string name="imageViewAndroid" translatable="false">TODO</string>
+    <string name="textViewConversor">Conversor de monedas</string>
+    <string name="editTextIngrese">Ingrese un Monto</string>
+    <string name="editTextInMonto">Ingrese un monto en Pesos</string>
+    <string name="textViewSeleccionar">Seleccione una Moneda</string>
+    <string name="radioButtonDolar">DOLAR (USA)</string>
+    <string name="radioButtonEuro" translatable="false">EURO</string>
+    <string name="radioButtonReal">REAL (BRASIL)</string>
+    <string name="editTextResultado">Resultado</string>
+    <string name="buttonConvertir">CONVERTIR</string>
+    <string name="buttonReinicia">REINICIAR</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ingresar</string>
+    <string name="textViewBienvenido">Welcom back</string>
+    <string name="editTextNombre">ENTER YOUR NAME</string>
+    <string name="editTextPassword">ENTER YOUR PASSWORD</string>
+    <string name="textViewRecordar">Remember User</string>
+    <string name="buttonIngresar">Enterokay</string>
+    <string name="textViewSinRegistrar">Unregistered? Create User</string>
+    <string name="textViewConversor">Currency Converter</string>
+    <string name="editTextIngrese">Enter a Amount</string>
+    <string name="editTextInMonto">Enter an amount in pesos</string>
+    <string name="textViewSeleccionar">Select a Currency</string>
+    <string name="radioButtonDolar">DOLLAR (USA)</string>
+    <string name="radioButtonReal">REAL (BRAZIL)</string>
+    <string name="editTextResultado">Outcome</string>
+    <string name="buttonConvertir">TURN INTO</string>
+    <string name="buttonReinicia">RESTART</string>
+</resources>
